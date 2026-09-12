@@ -31,7 +31,6 @@ Built-in visual support and preparation for major networks:
 ### 4️⃣ 🚀 Production-Ready Configuration
 Configured for seamless cloud deployment.
 - Includes a `Procfile` utilizing Gunicorn as the WSGI server.
-- Automated static workflows via GitHub Actions (`.github/workflows/static.yml`).
 
 ---
 
@@ -47,8 +46,8 @@ Configured for seamless cloud deployment.
 - **Templating**: Modular frontend design using base templates to avoid code repetition.
 
 ### ⚙️ DevOps & Environment
-- **GitHub Actions**: Automated workflows.
 - **Environment Management**: Dependency tracking via `requirements.txt` and explicit runtime targeting (`runtime.txt`).
+
 
 ---
 
@@ -56,8 +55,8 @@ Configured for seamless cloud deployment.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd social-media-scheduler-main
+   git clone https://github.com/adityasah15/social-media-scheduler.git
+   cd social-media-scheduler
    ```
 
 2. **Install dependencies:**
