@@ -1,5 +1,7 @@
 # 📱 Social Media Scheduler
 
+### 🔗 [**View Live Site → social-media-scheduler-vaqd.onrender.com**](https://social-media-scheduler-vaqd.onrender.com)
+
 [![Python](https://img.shields.io/badge/python-3.11.9-blue)]()
 [![Status](https://img.shields.io/badge/status-Archived-red)]()
 [![License](https://img.shields.io/badge/license-MIT-orange)]()
@@ -52,6 +54,8 @@ Configured for seamless cloud deployment.
 ---
 
 ## ▶️ How to Run Locally
+
+Prefer to see it running instantly? Skip straight to the **[live deployed site](https://social-media-scheduler-vaqd.onrender.com)** — no setup required.
 
 1. **Clone the repository:**
    ```bash
